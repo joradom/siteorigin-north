@@ -1,6 +1,6 @@
 [submodule "build"]
 	path = build
-	url = git@github.com:siteorigin/theme-build.git
+	url = https://github.com/joradom/theme-build.git
 [submodule "inc/panels-lite"]
 	path = inc/panels-lite
 	url = git@github.com:siteorigin/panels-lite.git
