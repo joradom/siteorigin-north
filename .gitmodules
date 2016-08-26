@@ -3,7 +3,7 @@
 	url = https://github.com/joradom/theme-build.git
 [submodule "inc/panels-lite"]
 	path = inc/panels-lite
-	url = git@github.com:siteorigin/panels-lite.git
+	url = https://github.com/joradom/panels-lite.git
 [submodule "inc/settings"]
 	path = inc/settings
-	url = git@github.com:siteorigin/settings.git
+	url = https://github.com/joradom/settings.git
